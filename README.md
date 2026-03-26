@@ -38,7 +38,7 @@
 1. **Клонируйте репозиторий**:
 ```bash
 git clone <repository-url>
-cd калькулятор
+cd calculatorpro
 ```
 
 2. **Установите зависимости**:
